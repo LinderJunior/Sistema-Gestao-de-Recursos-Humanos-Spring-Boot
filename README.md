@@ -1,5 +1,4 @@
 # Sistema-de-Departamento-Spring-Boot-CRUD
-# Spring-Boot---Sistema-de-Departamento
 
 ![Screenshot (619)](https://user-images.githubusercontent.com/36881559/151396481-33e12560-351f-41fd-8d37-279ab97e1701.png)
 
