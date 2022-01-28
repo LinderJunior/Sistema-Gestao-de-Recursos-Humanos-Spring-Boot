@@ -1,6 +1,6 @@
 # Sistema-de-Departamento-Spring-Boot-CRUD
 
-![Screenshot (619)](https://user-images.githubusercontent.com/36881559/151396481-33e12560-351f-41fd-8d37-279ab97e1701.png)
+![Screenshot (627)](https://user-images.githubusercontent.com/36881559/151556799-6777f259-161b-47a9-b57f-8a0de81da0cf.png)
 
 DESCRIÇÃO DO PROJECTO 
 <p align="justify">Um Sistema Web desenvolvido com o Spring Boot. Éste foi o primeiro programa desenvolvido a partir do Spring Boot que foi adquirido num estágio estágio em Programação Java.</p>
