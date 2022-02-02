@@ -1,4 +1,4 @@
-# Sistema Gest. Recursos Humanos
+# Sistema Gestao Recursos Humanos
 
 ![Screenshot (627)](https://user-images.githubusercontent.com/36881559/151556799-6777f259-161b-47a9-b57f-8a0de81da0cf.png)
 
